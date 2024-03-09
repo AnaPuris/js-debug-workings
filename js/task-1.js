@@ -22,10 +22,24 @@
 // console.log("After");
 // console.log(msg);
 
-console.log("Before");
+// console.log("Before");
 
-for (let index = 0; index <= 10; index += 1){
-    console.log(`Inside cycle`);
-}
+// for (let index = 0; index <= 10; index += 1){
+//     console.log(`Inside cycle`);
+// }
     
-console.log("After");
+// console.log("After");
+
+// const points = 5000;
+// function getRandomPoints() {
+//     const randomNumber = Math.random();
+//     console.log(randomNumber);
+// }
+
+const c = 15;
+
+if (true) {
+    const a = 5;
+    console.log(a);
+
+}
